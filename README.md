@@ -5,18 +5,18 @@ This is an e-commerce that i have created with Next and deployed with Vercel. I 
 
 ### Tecnologies used
 
-:fa-check: CSS 
-:fa-check: HTML
-:fa-check: JAVASCRIPT
-:fa-check: REACT
-- useState
-- useEffect
-- useContext
-- API Fetch
+- CSS 
+- HTML
+- JAVASCRIPT
+- REACT
+  - useState
+  - useEffect
+  - useContext
+  - API Fetch
 
-:fa-check: Next
--  Eslint
-- Routing
+- Next
+  -  Eslint
+  - Routing
 
 ### Here you can see a preview 
 
