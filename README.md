@@ -15,8 +15,6 @@ This is an e-commerce that i have created with Next and deployed with Vercel. I 
   - API Fetch
 
 - Next
-  -  Eslint
-  - Routing
 
 ### Here you can see a preview 
 
